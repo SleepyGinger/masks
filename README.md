@@ -7,16 +7,15 @@ Surgical masks are up to 2 times as effective with <7um particles but at most
 80% effective. N95 for the win.
 https://pubmed.ncbi.nlm.nih.gov/32584542/
 
-Surgical mask was 3 times more effective in blocking transmission than the 
+Surgical mask were 3 times more effective in blocking transmission than the 
 homemade mask.
 https://pubmed.ncbi.nlm.nih.gov/24229526/
 
-In a real world setting cloth masks resulted in significantly higher 
-infection rates.  Penetration of cloth masks by particles was almost 97% 
+Coth masks resulted in significantly higher infection rates. Penetration of cloth masks by particles was almost 97% 
 and medical masks 44%.
 https://bmjopen.bmj.com/content/bmjopen/5/4/e006577.full.pdf
 
-In a real world setting surgical mask and N95 performed similarly.
+Surgical mask and N95 performed similarly in the field.
 https://jamanetwork.com/journals/jama/article-abstract/184819
 
 There remains a substantial gap in the scientific literature on the 
