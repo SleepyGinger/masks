@@ -23,6 +23,9 @@ Surgical masks are up to 2 times as effective with <7um particles but at most
 80% effective. N95 for the win.
 https://pubmed.ncbi.nlm.nih.gov/32584542/
 
+Face mask use could result in a large reduction in risk of infection with stronger associations with N95 or similar respirators compared with disposable surgical masks or similar
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext
+
 Surgical mask good - N95 good:
 Surgical mask and N95 performed similarly in the field.
 https://jamanetwork.com/journals/jama/article-abstract/184819
@@ -35,4 +38,31 @@ https://pubmed.ncbi.nlm.nih.gov/23505369/
 
 Find study showing how virus is tranmitted - % droplet vs % aerosol
 
+Droplet:
+Testing COVID via saliva test
+https://www.colorado.edu/today/2020/04/10/scientists-developing-covid-19-test-knows-youre-sick-you-do
 
+
+sampling air:
+transmission distance of SARS-CoV-2 might be 4 m
+https://wwwnc.cdc.gov/eid/article/26/7/20-0885_article#r3
+
+SARS-CoV-2, in particle sizes >4 µm and 1-4 µm in diameter concentrations in air ranged from 1.84x103 to 3.38x103 RNA copies per m3 air sampled.
+Floor has the highest contamination 
+https://www.medrxiv.org/content/10.1101/2020.03.29.20046557v2.full.pdf
+
+virus found in most personal items but in less concentration. most concentrated on floor and air handling grate
+https://www.medrxiv.org/content/10.1101/2020.03.23.20039446v3.full.pdf
+
+Environmental surveillance was performed in the room of a patient with viral load of 3.3 × 106 copies/mL (pooled nasopharyngeal and throat swabs) and 5.9 × 106 copies/mL (saliva), respectively. SARS-CoV-2 was identified in 1 of 13 environmental samples (7.7%) but not in 8 air samples collected at a distance of 10 cm from the patient's chin with or without wearing a surgical mask.
+https://pubmed.ncbi.nlm.nih.gov/32131908/
+
+ten air samples of patient rooms with confirmed COVID-19 - All air samples were negative. As we collected these samples 2 to 5 m from the patients' beds
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7194859/
+
+floor most highly contaminated followed by air outlet fan
+https://jamanetwork.com/journals/jama/fullarticle/2762692
+
+Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m
+protection was increased as distance was lengthened
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext
