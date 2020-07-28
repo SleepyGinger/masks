@@ -35,8 +35,10 @@ Influenza virus copy number in aerosol particles exhaled by patients with
 mask is significant only with coarse particles 5um but not for fine 
 particles wearing an ear-loop surgical mask
 https://pubmed.ncbi.nlm.nih.gov/23505369/
+https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1003205
 
-Find study showing how virus is tranmitted - % droplet vs % aerosol
+Hamsters can get Covid and surgical mask partition reduces spread and severity
+https://pubmed.ncbi.nlm.nih.gov/32472679/
 
 Droplet:
 Testing COVID via saliva test
