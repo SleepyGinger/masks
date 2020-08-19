@@ -79,3 +79,8 @@ https://jamanetwork.com/journals/jama/fullarticle/2762692
 Transmission of viruses was lower with physical distancing of 1 m or more, compared with a distance of less than 1 m
 protection was increased as distance was lengthened
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31142-9/fulltext
+
+Multiple clinical and epidemiologic reports have now lent considerable support that the predominant route of human-to-human transmission of the SARS-CoV-2 is through respiratory droplets and/or contact routes and do not support significant airborne transmission SO cloth mask and hand washing should be enough
+https://aricjournal.biomedcentral.com/articles/10.1186/s13756-020-00779-6
+
+
